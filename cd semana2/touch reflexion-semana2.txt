@@ -1,0 +1,9 @@
+La terminal es el centro de operaciones de un programador.
+Permite navegar entre carpetas de forma ágil y veloz.
+Optimiza la gestión de archivos sin usar el ratón.
+Es fundamental para usar Git y el control de versiones.
+Evita errores comunes en las rutas de código del proyecto.
+Permite ejecutar comandos de Node.js, npm o empaquetadores.
+Es vital para configurar entornos de desarrollo modernos.
+Facilita la automatización de tareas y creación de carpetas.
+Ayuda a trabajar en servidores remotos sin interfaz gráfica.
